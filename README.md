@@ -10,4 +10,4 @@
 Server
 
 1. NodeMCU with connects to Internet to publish data on AWS server
-Server side all NodeMCUs data collected and Publish data on AWS Server is under progress
+#Server side all NodeMCUs data collected and Publish data on AWS Server is under progress

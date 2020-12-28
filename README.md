@@ -4,7 +4,6 @@
 
 #Three different NodeMCU used
 1. NodeMCU with SoilMoisture
-
 2. NodeMCU with Ultrasonic
 3. NodeMCU with temperature and Humidity
 
